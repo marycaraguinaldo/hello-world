@@ -1,3 +1,8 @@
 # hello-world
 
-Hi I'm Mary Car Aguinaldo but you can call me "Emwan"
+public class Main {
+
+    public static void main(String[] args) {
+	    System.out.println("Hello World");
+    }
+}
